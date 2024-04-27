@@ -16,30 +16,6 @@ The core of this project is a neural network designed specifically for time-seri
 - Weather conditions
 - More (specify any additional features used)
 
-## How to Use
-### Requirements
-- Python 3.8+
-- TensorFlow 2.x
-- Pandas
-- NumPy
-- scikit-learn
-
-### Installation
-Clone this repository and install the required packages:
-
-```bash
-git clone https://github.com/your-github-username/nfl-touchdown-predictor.git
-cd nfl-touchdown-predictor
-pip install -r requirements.txt
-```
-
-### Running the Model
-To train the model with the provided dataset:
-
-```bash
-python train_model.py
-```
-
 ## Future Work and Improvements
 
 ### Model Refinement
